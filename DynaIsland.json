@@ -6,7 +6,7 @@
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://www.samprotools.com",
 
-  "showAnnouncementButton": false,
+  "showAnnouncementButton": true,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://yourdownloadlink.com"
 }
