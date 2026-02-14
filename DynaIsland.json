@@ -1,12 +1,12 @@
 {
-  "showAnnouncement": true,
+  "showAnnouncement": false,
   "announcementText": "⚠ New V2 Update Available!",
 
   "showContactButton": true,
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://www.samprotools.com",
 
-  "showAnnouncementButton": true,
+  "showAnnouncementButton": false,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://www.samprotools.com"
 }
